@@ -14,7 +14,7 @@
 
 ## Knowledge:
 - programming Language: JS & Python & C & C# and Familiar with Java & PHP
-- Frontend Technology: HTML & PugJs & CSS & bootstrap & tailwindcss & JS & Reactjs  and Fimiliary with NextJS & VueJs & AngularJs 
+- Frontend Technology: HTML& CSS & bootstrap & tailwindcss & JS & Reactjs & NextJs
 - Backend Technology: .Net MVC Core
 ## Project
 - [Simple Shell using C](https://github.com/mohamedahmed-cloud/simple_shell)

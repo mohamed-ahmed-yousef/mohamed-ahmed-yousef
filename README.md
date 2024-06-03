@@ -4,7 +4,7 @@
 ## About:
 
 - Final year student in computer and system engineering.
-- Currently interning in software engineering at Alx for 12 months.
+- Currently, work as a software engineer at Scicave.
 - Focused on expanding knowledge in frontend and backend development.
 - Actively enhancing problem-solving skills for effective contributions in software engineering.
 

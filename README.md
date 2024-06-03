@@ -10,7 +10,7 @@
 
 ## connect:
 - [Email](mailto:muhammedahmedyousef@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-yousef-928712210/)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-yousef/)
 
 ## Knowledge:
 - programming Language: JS & Python & C & C# and Familiar with Java & PHP

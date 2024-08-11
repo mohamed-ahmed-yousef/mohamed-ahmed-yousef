@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yousef</h1>
 
 ## About:
-
-- Final year student in computer and system engineering.
 - Currently, work as a software engineer at Scicave.
 - Focused on expanding knowledge in frontend and backend development.
 - Actively enhancing problem-solving skills for effective contributions in software engineering.
